@@ -11,6 +11,7 @@ The objective of this project is to develop a Restaurant Management System using
 5. Tested the system for accuracy and ease of use.
 
 ## Code:
+<a href="https://github.com/Rajratna2004/Python-Projects/blob/main/ResturantMang.py" >Restaurant Managment</a>
 
 
 ## 📊 Features
