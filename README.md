@@ -13,6 +13,12 @@ The objective of this project is to develop a Restaurant Management System using
 ## Code:
 <a href="https://github.com/Rajratna2004/Python-Projects/blob/main/ResturantMang.py" >Restaurant Managment</a>
 
+## OutPut:
+<img width="874" height="965" alt="Screenshot 2025-09-07 223923" src="https://github.com/user-attachments/assets/0e6b5a99-4d6e-4acb-8b10-4712583796e9" />
+
+<img width="876" height="894" alt="Screenshot 2025-09-07 224023" src="https://github.com/user-attachments/assets/f1327cd3-5130-43c0-91bb-4c6253c930c5" />
+
+
 
 ## 📊 Features
 - Easy-to-use graphical interface  
